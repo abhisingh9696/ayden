@@ -12,7 +12,7 @@
 ## Installation
 > Local Installation
 ```
-git clone http://www.github.com/r0ld3x/adyen-enc-and-bin-info
+git clone https://github.com/abhisingh9696/ayden
 cd adyen-enc-and-bin-info
 pip install -r requirements.txt
 uvicorn index:app
